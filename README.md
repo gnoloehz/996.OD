@@ -45,6 +45,9 @@ OD，英文Occupational Disease的缩写
 
 * [结膜炎+干眼症](https://www.chunyuyisheng.com/pc/qa/dzVw0evvJuDXhgxf8nyEqw)
 
+* [神经衰弱](OD_cases/neurasthenia.md)
+
+
 猝死案例
 ---
 * [90后小伙突发心脏病被堵在车流中！同事：他天天加班太累了！](http://t.m.youth.cn/transfer/toutiao/url/3g.youth.cn/rdzx/201904/t20190415_11927164.htm?tt_from=weixin_moments&tt_group_id=6680041988563141124)

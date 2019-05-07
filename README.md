@@ -52,6 +52,7 @@ OD，英文Occupational Disease的缩写
 ---
 * [90后小伙突发心脏病被堵在车流中！同事：他天天加班太累了！](http://t.m.youth.cn/transfer/toutiao/url/3g.youth.cn/rdzx/201904/t20190415_11927164.htm?tt_from=weixin_moments&tt_group_id=6680041988563141124)
 * [刚刚，又有一位程序员倒下了......](http://news.51cto.com/art/201904/595125.htm)
+* [苏宁员工加班猝死](https://www.zhihu.com/question/323310842)
 
 互助社区
 ---

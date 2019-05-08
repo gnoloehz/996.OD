@@ -1,3 +1,5 @@
+[![top.996](https://img.shields.io/badge/link-top.996-red.svg)](https://github.com/top996/top.996)
+
 > [社畜短篇-骡子](https://zhuanlan.zhihu.com/p/62361949?utm_source=wechat_session&utm_medium=social&utm_oi=27142108741632) “骡这畜生，较驴则力大，较马则耐劳……”，可是有人真把自己当骡子
 > 
 > 从小到大，有人教我们过马路小心，但是真正的危险不在马路上，在工位上，因为我们呆在工位的时间，比马路上长的多

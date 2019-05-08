@@ -49,6 +49,7 @@ OD，英文Occupational Disease的缩写
 猝死案例
 ---
 * [90后小伙突发心脏病被堵在车流中！同事：他天天加班太累了！](http://t.m.youth.cn/transfer/toutiao/url/3g.youth.cn/rdzx/201904/t20190415_11927164.htm?tt_from=weixin_moments&tt_group_id=6680041988563141124)
+* [大疆员工加班猝死](https://www.zhihu.com/question/305264600/answer/549940610)
 * [刚刚，又有一位程序员倒下了......](http://news.51cto.com/art/201904/595125.htm)
 * [蚂蚁金服干将、原中金分析师毛军华癌症离世，年仅41岁](https://baijiahao.baidu.com/s?id=1632344180194220901&wfr=spider&for=pc)
 * [苏宁员工加班猝死](https://www.zhihu.com/question/323310842)

@@ -1,5 +1,3 @@
-[![top.996](https://img.shields.io/badge/link-top.996-red.svg)](https://github.com/top996/top.996)
-
 > [社畜短篇-骡子](https://zhuanlan.zhihu.com/p/62361949?utm_source=wechat_session&utm_medium=social&utm_oi=27142108741632) “骡这畜生，较驴则力大，较马则耐劳……”，可是有人真把自己当骡子
 > 
 > 从小到大，有人教我们过马路小心，但是真正的危险不在马路上，在工位上，因为我们呆在工位的时间，比马路上长的多
@@ -10,6 +8,7 @@ OD，英文Occupational Disease的缩写
 
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu/#/en_US)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+[![top.996](https://img.shields.io/badge/link-top.996-red.svg)](https://github.com/top996/top.996)
 
 本文档记录由于用人单位长期违反劳动法加班，而导致的员工疾病或猝死情况，并侧重于记录慢性职业病、身体不适症状，以提醒广大劳动者，尤其是发起者程序员群体，在重病或猝死之前注意身体发出的信号，并及时调整工作强度，避免悲剧发生。
 

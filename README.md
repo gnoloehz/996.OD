@@ -54,6 +54,10 @@ OD，英文Occupational Disease的缩写
 * [蚂蚁金服干将、原中金分析师毛军华癌症离世，年仅41岁](https://baijiahao.baidu.com/s?id=1632344180194220901&wfr=spider&for=pc)
 * [苏宁员工加班猝死](https://www.zhihu.com/question/323310842)
 
+疑似案例
+---
+* [百度员工救护车拉走](https://maimai.cn/web/gossip_detail?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiMDYxZTg3YzY3NzcxMTFlOWFkMTcyNDZlOTZiNDgwODgiLCJ1IjozNDAyMzU3MywiaWQiOjIxNzYwMzYyfQ.5RIiqSnEuUnH2m89Yw4ksupZFsPb6UGu438PXkBj6Q8)
+
 互助社区
 ---
 类似于老兵们在战场归来后，需要在老兵社区交流与某些疾病抗争的过程，以启发或激励其他人，例如创伤后应激障碍（ PTSD），此类疾病属于典型的心理会影响身体的疾病，长期处于高压和危险环境下，人的心理会发生很多难以察觉的变化，即使在未来进入非高压环境，也会出现短期或长期难以适应的情况，例如长期加班后的习惯性失眠等。

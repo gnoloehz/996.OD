@@ -53,6 +53,7 @@ OD，英文Occupational Disease的缩写
 * [刚刚，又有一位程序员倒下了......](http://news.51cto.com/art/201904/595125.htm)
 * [蚂蚁金服干将、原中金分析师毛军华癌症离世，年仅41岁](https://baijiahao.baidu.com/s?id=1632344180194220901&wfr=spider&for=pc)
 * [苏宁员工加班猝死](https://www.zhihu.com/question/323310842)
+* [华为工程师22月无休后猝死](https://www.zhihu.com/question/308375308/answer/568989760)
 
 疑似案例
 ---

@@ -59,6 +59,7 @@ OD，英文Occupational Disease的缩写
 ---
 * [百度员工救护车拉走](https://maimai.cn/web/gossip_detail?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiMDYxZTg3YzY3NzcxMTFlOWFkMTcyNDZlOTZiNDgwODgiLCJ1IjozNDAyMzU3MywiaWQiOjIxNzYwMzYyfQ.5RIiqSnEuUnH2m89Yw4ksupZFsPb6UGu438PXkBj6Q8)
 * [马上金融疑似猝死](https://maimai.cn/web/gossip_detail?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiN2YzNmZmNjI3N2MxMTFlOWJlNTI1MjU0MDAxYmIzMTYiLCJ1IjozODE4MTUwMCwiaWQiOjIxNzcyNDcwfQ.yky3rr752u6Z0YwkQPBtMOt55XTGsW9kaUyru8mGtlw)
+* [四大安永31岁审计经理猝死，生前负责14个项目](https://xueqiu.com/4375244628/126939659)
 
 互助社区
 ---

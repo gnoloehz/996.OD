@@ -55,6 +55,7 @@ OD，英文Occupational Disease的缩写
 * [苏宁员工加班猝死](https://www.zhihu.com/question/323310842)
 * [华为工程师22月无休后猝死](https://www.zhihu.com/question/308375308/answer/568989760)
 * [四大安永31岁审计经理猝死，生前负责14个项目](https://xueqiu.com/4375244628/126939659)
+* [2011年百度员工猝死](http://media.people.com.cn/GB/40606/16339008.html)
 
 疑似案例
 ---
